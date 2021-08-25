@@ -6,7 +6,7 @@ A mesa vibratória GEDUSE é um excitador eletromecânico do tipo mesa vibrante 
 <center> ![image](Parte_Mecanica.jpg "Parte Mecânica")  </center>
 
 <p align="center">
-  <img src="https://github.com/mumorais/GEDUSE/Parte_Mecanica.jpg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/mumorais/GEDUSE/blob/main/Parte_MicroControlada.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
